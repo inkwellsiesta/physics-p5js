@@ -14,9 +14,9 @@ You will make a block move as if it's attached to a spring!
 
 ## Instructions
 
-**You are going to be editing `sketch.js`, dont' worry about changes anywhere else**
+**You are going to be editing `sketch.js`, don't worry about changes anywhere else**
 
-All you have to do is fill out the '''update()''' function. Simple, right? :P
+All you have to do is fill out the ```update()``` function. Simple, right? :stuck_out_tongue_winking_eye:
 Once you have your block moving on a spring, try personalizing your sketch!
 * Change the colors of the lines, of the block, and of the background.
 * Change the mass of the block and spring constant.
