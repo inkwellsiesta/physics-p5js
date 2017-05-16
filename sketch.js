@@ -31,6 +31,7 @@ function draw() {
     // with the mouse.
     if (mouseIsPressed) {
         x += (mouseX - pmouseX);
+        v = 0;
     }
     
     // This is where the physics happens!
