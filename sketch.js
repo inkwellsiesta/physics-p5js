@@ -1,9 +1,14 @@
-var floor_height = 100;
+var floor_height = 300;
 var block_size = 50;
 
 var x0 = 200; // starting position of block
 
+var k = 1;    // spring constant
+              // (The larger this value is, the
+              // stiffer the spring.)
+var m = 1;    // mass of block
 var h = 1/60; // timestep
+
 var x, v;     // position and velocity
 
 function setup() {
