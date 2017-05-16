@@ -1,5 +1,7 @@
 # p5js Physics Engine
 
+You will make a block move as if it's attached to a spring!
+
 ## Getting started
 
 ### Running the app
@@ -12,19 +14,14 @@
 
 ## Instructions
 
-Your first task is to take Firebase messages from the message store and display them
-in chatty's UI.
-
-You can already send new messages to Firebase and see new messages from everyone
-else in the console, but it will be more convenient for most users to see
-messages in the provided `<textarea>`.
-
 **You are going to be editing `sketch.js`, dont' worry about changes anywhere else**
 
-1. Get the `<textarea>` in JavaScript using `document.getElementById`
-2. Add some "static" text to the text area using `.value`
-3. Update the `<textarea>` with every new message that comes in with the username and message added together (concatenated) as a single string
-4. Add *all* the messages to the `<textarea>` by separating with a newline character `'\n'`
+All you have to do is fill out the '''update()''' function. Simple, right? :P
+Once you have your block moving on a spring, try personalizing your sketch!
+* Change the colors of the lines, of the block, and of the background.
+* Change the mass of the block and spring constant.
+* Add a second spring. 
+* Add additional forces, like damping or gravity. Can you make a vertical spring?
 
 ## Background reading
 
