@@ -28,3 +28,6 @@ Once you have your block moving on a spring, try personalizing your sketch!
 * [p5js](https://p5js.org/reference/)
 * [Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law/)
 * [Euler method](https://en.wikipedia.org/wiki/Euler_method/)
+* [Pendulum](https://en.wikipedia.org/wiki/Pendulum_(mathematics)#Small-angle_approximation)
+
+![Netwon's cradle](https://media.giphy.com/media/upMmHeE6BZX5S/giphy.gif)
